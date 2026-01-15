@@ -2,7 +2,7 @@
 
 ## Demo
 
-[View live!]("")
+[View live!]("https://basketball-scoreboard-by-riksbyggarn.netlify.app/")
 
 ## Features
 
