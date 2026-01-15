@@ -38,6 +38,9 @@ button {
   display: flex;
   justify-content: space-around;
   text-align: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 8px;
 }
 
 .btn-container {
