@@ -20,7 +20,7 @@
 ## Installation
 
 1. Clone the repo:
-   `git clone <repo-url>`
+   `git clone https://github.com/riksbyggarn/basketball-scoreboard.git`
 2. Open `index.html` in your web browser.
 
 ## Usage
